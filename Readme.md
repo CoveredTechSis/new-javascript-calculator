@@ -1,0 +1,1 @@
+The content contains a basic arithmetic calculator code in Javascript.
